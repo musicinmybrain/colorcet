@@ -76,7 +76,7 @@ setup_args = dict(
     version=get_setup_version('colorcet'),
     long_description='README.md',
     long_description_content_type='text/markdown',
-    license_file='LICENSE.txt',
+    license_files=['LICENSE.txt'],
     license='CC-BY License',
     classifiers=[
         "License :: OSI Approved",
